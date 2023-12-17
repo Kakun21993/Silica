@@ -1,5 +1,8 @@
+# see https://mirrors.edge.kernel.org/pub/software/scm/git/docs/gitattributes.html
+
+* text=auto whitespace=trailing-space
+
 *.csharp linguist-detectable=true
-*.pl linguist-detectable=true
 *.java linguist-detectable=false  
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
